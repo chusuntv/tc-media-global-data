@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-29T09:41:03Z",
+  "generated_at": "2026-10-29T16:26:09Z",
   "videos": [
+    {
+      "id": "3IkjBtYA568",
+      "title": "Bắt Đầu Lại Trên Con Ngõ Đen",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T15:07:57Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/3IkjBtYA568/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "Q35Y_J22Nr4",
+      "title": "残響の向こうで / Official MV",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-10-29T11:10:01Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/Q35Y_J22Nr4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
     {
       "id": "mJAyW5R-WaY",
       "title": "Khi Em Học Cách Buông (Official Audio)",
