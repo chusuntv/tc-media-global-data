@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T16:26:48Z",
+  "generated_at": "2026-11-01T20:50:53Z",
   "last_full_refresh_at": "2026-10-31T22:51:10Z",
   "channels": {
     "music": {
@@ -118,6 +118,20 @@
     }
   },
   "videos": [
+    {
+      "id": "8xYt5dgkXzI",
+      "title": "Phần 4 | Kiếm Thần Trở Lại, Mười Vạn Năm Cùng Con Lừa | Luyện Kiếm 10 Vạn Năm Thành Kiếm Thần",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-01T18:59:24Z",
+      "duration_seconds": 15072,
+      "thumbnail_url": "https://i.ytimg.com/vi/8xYt5dgkXzI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "QxkyKTjwyqQ",
       "title": "Băng Chuyền Mơ Về Thành Phố — Vinahouse mơ màng cho đời công nhân (Original Parody) | Official Audio",
