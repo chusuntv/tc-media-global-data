@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T16:55:43Z",
+  "generated_at": "2026-11-02T23:49:50Z",
   "last_full_refresh_at": "2026-11-02T00:26:51Z",
   "channels": {
     "music": {
@@ -118,6 +118,76 @@
     }
   },
   "videos": [
+    {
+      "id": "pygEFhk_b-I",
+      "title": "8 Tiếng | Ta Có Thể Hồi Sinh Vô Hạn Lần | Mùa 1+2+3 | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-02T23:00:26Z",
+      "duration_seconds": 28885,
+      "thumbnail_url": "https://i.ytimg.com/vi/pygEFhk_b-I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8iiKBsnedsc",
+      "title": "Chồng Đòi Ly Hôn Để Cưới Nhân Tình, Nào Ngờ Mẹ Ruột Trao 6,68 Triệu Tệ Cho Con Dâu Đang Mang Bầu!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-02T23:00:25Z",
+      "duration_seconds": 4719,
+      "thumbnail_url": "https://i.ytimg.com/vi/8iiKBsnedsc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "_wy6-opHT9g",
+      "title": "Phần 20: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-02T23:00:10Z",
+      "duration_seconds": 8508,
+      "thumbnail_url": "https://i.ytimg.com/vi/_wy6-opHT9g/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "1RQJULKDfEw",
+      "title": "Phần 1: Ngộ Tính Nghịch Thiên, Ta Tu Ma Đạo Đoạt Cơ Duyên Nghịch Mệnh Cầu Trường Sinh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-02T21:21:22Z",
+      "duration_seconds": 9112,
+      "thumbnail_url": "https://i.ytimg.com/vi/1RQJULKDfEw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "QpJ5px-UBiw",
+      "title": "Phần 5 | Sơn Tặc Xuyên Không Đi Tu Tiên, Ta Dùng Võ Thần Quyết Quậy Tung Tu Tiên Giới",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-02T17:41:08Z",
+      "duration_seconds": 9777,
+      "thumbnail_url": "https://i.ytimg.com/vi/QpJ5px-UBiw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "LT8dJmgCG1I",
       "title": "Sàn Nhớ Em (Remix)",
