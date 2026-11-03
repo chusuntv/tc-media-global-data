@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-11-03T06:01:58Z",
+  "generated_at": "2026-11-03T14:41:03Z",
   "videos": [
+    {
+      "id": "n5GYNVaU3-w",
+      "title": "向光的名字 — 原創流行抒情曲",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-03T12:12:42Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/n5GYNVaU3-w/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
+    {
+      "id": "9S8Q10SzgAo",
+      "title": "เสียงของเช้าที่มีเธอ (Official Audio)",
+      "channel": "music",
+      "channel_title": "TC Music Global",
+      "published_at": "2026-11-03T07:08:29Z",
+      "duration_seconds": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/9S8Q10SzgAo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": [
+        "shorts"
+      ]
+    },
     {
       "id": "LT8dJmgCG1I",
       "title": "Sàn Nhớ Em (Remix)",
