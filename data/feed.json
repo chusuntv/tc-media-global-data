@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T23:29:27Z",
+  "generated_at": "2026-11-06T03:41:37Z",
   "last_full_refresh_at": "2026-11-05T09:51:40Z",
   "channels": {
     "music": {
@@ -118,6 +118,174 @@
     }
   },
   "videos": [
+    {
+      "id": "F2eVRaged20",
+      "title": "Phần 1-2 | 10,5 GIỜ THỎA MÃN | Xuyên làm Đệ Tử Ngũ Linh Căn - Dùng Cổ Pháp Tu Tiên Trở Thành Vô Địch",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T03:30:50Z",
+      "duration_seconds": 37600,
+      "thumbnail_url": "https://i.ytimg.com/vi/F2eVRaged20/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "0WdRewwH9hM",
+      "title": "Pengemis Masuk Sendirian Ke Markas Musuh Dan Membunuh Semua, Ternyata Dewa Perang Tak Terkalahkan",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-06T03:00:37Z",
+      "duration_seconds": 6077,
+      "thumbnail_url": "https://i.ytimg.com/vi/0WdRewwH9hM/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "cgWyXP3YCU8",
+      "title": "Toàn Dân Thức Tỉnh Ta Biến Zombie Bia Đỡ Đạn Thành Thần Thú | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-06T03:00:28Z",
+      "duration_seconds": 9165,
+      "thumbnail_url": "https://i.ytimg.com/vi/cgWyXP3YCU8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "3WNWbR2XCeo",
+      "title": "Dengar Pacar Dijual ke Luar Negeri, Dewa Perang Menyamar Miskin Terobos Area Terlarang, Habisi Geng",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-06T03:00:22Z",
+      "duration_seconds": 5674,
+      "thumbnail_url": "https://i.ytimg.com/vi/3WNWbR2XCeo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "hFdouOKfGIc",
+      "title": "Sư Phụ Ẩn Dật 10 Vạn Năm - Nào Ngờ Là Một Cao Thủ Vô Song - Một Mình Trấn Áp Mọi Cường Giả",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T02:42:22Z",
+      "duration_seconds": 7456,
+      "thumbnail_url": "https://i.ytimg.com/vi/hFdouOKfGIc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "gvJqNePASF4",
+      "title": "Cha Nghèo Bị Ép Mặc Đồ Hề Giữa Tiệc 30 Năm Tập Đoàn, Nào Ngờ Con Trai Trở Thành Tân Chủ Tịch!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-06T02:00:39Z",
+      "duration_seconds": 4914,
+      "thumbnail_url": "https://i.ytimg.com/vi/gvJqNePASF4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "lIfLzPY0Iek",
+      "title": "[FULL S3-5] AI GIẤU MẤT NÚT THOÁT GAME CỦA TA ĐÂU MẤT RỒI | LY VIETSUB 229",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-11-06T01:41:19Z",
+      "duration_seconds": 43244,
+      "thumbnail_url": "https://i.ytimg.com/vi/lIfLzPY0Iek/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "s5tak7ST2cY",
+      "title": "P1-4 BẢN ĐẸP | 45 Giờ Thỏa Mãn | Thiên Đạo Sụp Đổ - Từ Phàm Nhân Ta Nghịch Thiên Tu Đạo",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T01:38:06Z",
+      "duration_seconds": 161926,
+      "thumbnail_url": "https://i.ytimg.com/vi/s5tak7ST2cY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "PCTw1aEaDYk",
+      "title": "Full Version l Chặn Bạn Trai Qua Mạng, Ai Ngờ Thiếu Gia Tìm Về Tận Làng Đòi Yêu Tiếp l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-06T01:00:40Z",
+      "duration_seconds": 5663,
+      "thumbnail_url": "https://i.ytimg.com/vi/PCTw1aEaDYk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "MRu9Kt-XBLI",
+      "title": "Bị Vu Oan Và Đuổi Khỏi Tông Môn, Hắn Được Hoàng Hậu Linh Long Chọn, Thức Tỉnh Võ Hồn Đế Cấp",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-06T01:00:23Z",
+      "duration_seconds": 24234,
+      "thumbnail_url": "https://i.ytimg.com/vi/MRu9Kt-XBLI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "bsBmFx0IgTQ",
+      "title": "6 GIỜ | Hệ Thống Giảm Giá 1 Tỷ Lần - Công Pháp Đại Đế Chỉ Đáng Giá 1 Xu - Xuyên Làm Đệ Tử Phế Vật",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T00:51:22Z",
+      "duration_seconds": 21722,
+      "thumbnail_url": "https://i.ytimg.com/vi/bsBmFx0IgTQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "qWeMPn-WkIc",
+      "title": "Thiên Kim Thật Bị Gài Bẫy Mất Chức Phó Tổng, Nào Ngờ Kẻ Vu Khống Tự Lộ Sơ Hở, Cô Được Phục Chức!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-06T00:00:10Z",
+      "duration_seconds": 5327,
+      "thumbnail_url": "https://i.ytimg.com/vi/qWeMPn-WkIc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "RSRiwTIPp4E",
       "title": "Nghe Con Gái Ước Chú Lục Là Bố, Chồng Ly Hôn Sau Nhiều Năm Hy Sinh, Khiến Vợ Hối Hận Thật Muộn Màng",
