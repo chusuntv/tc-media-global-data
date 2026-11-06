@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T11:34:56Z",
+  "generated_at": "2026-11-06T18:30:29Z",
   "last_full_refresh_at": "2026-11-06T11:34:56Z",
   "channels": {
     "music": {
@@ -118,6 +118,230 @@
     }
   },
   "videos": [
+    {
+      "id": "M2Eo39bgWw8",
+      "title": "Phần 2-Part 1: Sinh Ra Mang Lời Nguyền Chết Yểu, Ta Tu Luyện Để Đoạt Lại Trường Sinh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-06T17:50:51Z",
+      "duration_seconds": 17366,
+      "thumbnail_url": "https://i.ytimg.com/vi/M2Eo39bgWw8/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "liNZ-Qvm_7E",
+      "title": "Phần 2-Part 2: Sinh Ra Mang Lời Nguyền Chết Yểu, Ta Tu Luyện Để Đoạt Lại Trường Sinh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-06T17:48:35Z",
+      "duration_seconds": 12408,
+      "thumbnail_url": "https://i.ytimg.com/vi/liNZ-Qvm_7E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "flg9MDY9IIk",
+      "title": "Phần 1- Part 2: Sinh Ra Mang Lời Nguyền Chết Yểu, Ta Tu Luyện Để Đoạt Lại Trường Sinh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-06T17:47:08Z",
+      "duration_seconds": 25686,
+      "thumbnail_url": "https://i.ytimg.com/vi/flg9MDY9IIk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "93l0L7HmSmQ",
+      "title": "Phần 1-Part 1: Sinh Ra Mang Lời Nguyền Chết Yểu, Ta Tu Luyện Để Đoạt Lại Trường Sinh",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-06T17:46:01Z",
+      "duration_seconds": 26170,
+      "thumbnail_url": "https://i.ytimg.com/vi/93l0L7HmSmQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ixJ-bNJMj6Q",
+      "title": "Phần 45 | Nhất Kiếm Trường Sinh, Vô Linh Chứng Đạo, Lưu Ly Kiếm Tông",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-06T17:22:04Z",
+      "duration_seconds": 7789,
+      "thumbnail_url": "https://i.ytimg.com/vi/ixJ-bNJMj6Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "4DoVh_dJ_fA",
+      "title": "Phần 45 | BẢN CHUẨN FULL HD | Nhất Kiếm Trường Sinh - Lưu Ly Kiếm Tông",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T16:48:02Z",
+      "duration_seconds": 7716,
+      "thumbnail_url": "https://i.ytimg.com/vi/4DoVh_dJ_fA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "68WxG9vrzwM",
+      "title": "Phần 6: Lão Ăn Mày Tự Chôn Trong Chum, Thức Tỉnh Kỳ Năng Nghịch Thiên Tu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-06T14:24:24Z",
+      "duration_seconds": 7436,
+      "thumbnail_url": "https://i.ytimg.com/vi/68WxG9vrzwM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "kF5Dbd1A0Aw",
+      "title": "9 GIỜ THỎA MÃN ÍT BUFF | Tạp Dịch Ngũ Linh Căn - Thần Bí Châu Âm Thầm Tu Luyện",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T13:01:14Z",
+      "duration_seconds": 32516,
+      "thumbnail_url": "https://i.ytimg.com/vi/kF5Dbd1A0Aw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "2FwwxA4cEhY",
+      "title": "Hoàng Đế Lạnh Lùng Khiến Cả Triều Đình Khiếp Sợ, Nhưng Lại Mất Kiểm Soát Trước Mặt Ta",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-06T13:00:38Z",
+      "duration_seconds": 20319,
+      "thumbnail_url": "https://i.ytimg.com/vi/2FwwxA4cEhY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Kns46HMKKPI",
+      "title": "Giả Làm Ăn Xin Để Tìm Vợ, Chủ Tịch Được Cô Gái Cho 100 Tệ, Nào Ngờ Anh Tặng Lại Tấm Séc 5 Triệu Tệ",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-06T13:00:31Z",
+      "duration_seconds": 4578,
+      "thumbnail_url": "https://i.ytimg.com/vi/Kns46HMKKPI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "r-4OpTgg-6E",
+      "title": "P1-3 | 17,5 GIỜ | Xuyên Làm Thái Tử Bù Nhìn - Dùng Sức Mạnh Thống Nhất Giang Sơn",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T12:31:17Z",
+      "duration_seconds": 61874,
+      "thumbnail_url": "https://i.ytimg.com/vi/r-4OpTgg-6E/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "zYwlu66cWjI",
+      "title": "Dengar Adik Angkat Racuni Suami demi Merebutnya, Dewi Perang Murka, Hukum Dia, Tubuhnya Jadi Penawar",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-06T12:30:21Z",
+      "duration_seconds": 5163,
+      "thumbnail_url": "https://i.ytimg.com/vi/zYwlu66cWjI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "mHyj6XIl7LU",
+      "title": "Full Version l Cô Vợ Nhỏ Được Vua Sói Nuôi Từ Bé l Sora Dub",
+      "channel": "drama2",
+      "channel_title": "Sora Dub",
+      "published_at": "2026-11-06T12:07:32Z",
+      "duration_seconds": 5677,
+      "thumbnail_url": "https://i.ytimg.com/vi/mHyj6XIl7LU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "MAD00r5-TFg",
+      "title": "Chồng Giữ Hết Lương Vợ 5 Năm, Đòi 550 Nghìn Tệ Cho Em Gái Du Học, Nào Ngờ Tài Khoản Chỉ Có 200 Tệ!",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-06T12:00:38Z",
+      "duration_seconds": 5283,
+      "thumbnail_url": "https://i.ytimg.com/vi/MAD00r5-TFg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "uyOyK804y-k",
+      "title": "Kẻ Hốt Phân Ngựa Là Thần Súng Tái Xuất Khiến Cả Giang Hồ Kinh Sợ | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-06T12:00:34Z",
+      "duration_seconds": 9162,
+      "thumbnail_url": "https://i.ytimg.com/vi/uyOyK804y-k/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "x1EXk-ioIPc",
+      "title": "Phần 3 | RẤT ĐÁNG XEM | Thiên Đế Đồ Lục - Đệ Tử Phế Vật Nghịch Thiên Tu Thành Chí Tôn Cảnh",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-06T11:48:27Z",
+      "duration_seconds": 15679,
+      "thumbnail_url": "https://i.ytimg.com/vi/x1EXk-ioIPc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "BxW73KaNmoY",
       "title": "6 GIỜ | Đệ Tử Phế Vật Bị Coi Thường - Ta Tiêu Xài Hoàng Phí Để Xây Lên Tông Môn Vô Địch",
