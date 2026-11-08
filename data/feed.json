@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T13:02:09Z",
-  "last_full_refresh_at": "2026-11-07T16:39:17Z",
+  "generated_at": "2026-11-08T18:31:31Z",
+  "last_full_refresh_at": "2026-11-08T18:31:31Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -118,6 +118,130 @@
     }
   },
   "videos": [
+    {
+      "id": "63g9wXxjzSE",
+      "title": "Phần 46 | Nhất Kiếm Trường Sinh, Vô Linh Chứng Đạo, Lưu Ly Kiếm Tông",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-08T17:16:39Z",
+      "duration_seconds": 7393,
+      "thumbnail_url": "https://i.ytimg.com/vi/63g9wXxjzSE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lYRTpgkpwZQ",
+      "title": "Đại Kết Cục | Tượng Đất Hóa Thần | Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-08T17:11:02Z",
+      "duration_seconds": 102,
+      "thumbnail_url": "https://i.ytimg.com/vi/lYRTpgkpwZQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "short",
+      "categories": []
+    },
+    {
+      "id": "udFmqSx9_GQ",
+      "title": "Đấng Tối Cao Huyết Tẩy Vĩnh Hằng Tông, Nào Ngờ Ta Triệu Hồi Cửu Âm Đế Một Kiếm Diệt Thần!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-08T17:00:14Z",
+      "duration_seconds": 10050,
+      "thumbnail_url": "https://i.ytimg.com/vi/udFmqSx9_GQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "aicyx5qRWXY",
+      "title": "Phần 46 | BẢN CHUẨN FULL HD | Nhất Kiếm Trường Sinh - Lưu Ly Kiếm Tông",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T16:54:28Z",
+      "duration_seconds": 7701,
+      "thumbnail_url": "https://i.ytimg.com/vi/aicyx5qRWXY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "xrtX3KZpimk",
+      "title": "Vừa Gia Nhập Tiên Môn, Hắn Kích Hoạt Hệ Thống Dị Giáo, Tu Ma Càng Mạnh, Công Đức Càng Tăng!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-08T16:00:35Z",
+      "duration_seconds": 10054,
+      "thumbnail_url": "https://i.ytimg.com/vi/xrtX3KZpimk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "1EhqvN3pmkg",
+      "title": "Xuyên Không Về Cổ Đại, Hắn Kích Hoạt Hệ Thống Triệu Hồi, Gọi Vạn Cổ Danh Tướng Chinh Phục Thiên Hạ!",
+      "channel": "movies2",
+      "channel_title": "Ngự Kiếm TV",
+      "published_at": "2026-11-08T15:07:39Z",
+      "duration_seconds": 9539,
+      "thumbnail_url": "https://i.ytimg.com/vi/1EhqvN3pmkg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ABZBF9LwVGY",
+      "title": "Phần 4-P1: Nghịch Đồ Cầu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-08T14:09:08Z",
+      "duration_seconds": 38854,
+      "thumbnail_url": "https://i.ytimg.com/vi/ABZBF9LwVGY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "lZi4QXX0D68",
+      "title": "P2 | 8 GIỜ THỎA MÃN | Con Rể Bị Coi Thường - Nào Ngờ Là Đệ Nhất Ma Đế Bất Bại Cả Vạn Năm",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T13:54:31Z",
+      "duration_seconds": 27886,
+      "thumbnail_url": "https://i.ytimg.com/vi/lZi4QXX0D68/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "ST6bTcPMEgc",
+      "title": "Phần 10  - Tập 19 | Tạp Dịch Ngụy Linh Căn, Nhưng Bùa Chú Của Ta Mạnh Gấp 10 Lần",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-08T13:22:04Z",
+      "duration_seconds": 1539,
+      "thumbnail_url": "https://i.ytimg.com/vi/ST6bTcPMEgc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "koOXugLkAl8",
       "title": "Full | Bị Ma Nữ Bắt Làm Lô Đỉnh Tôi Kích Hoạt Hệ Thống Vợ Chồng Son Hốt Luôn Ma Tôn Về Làm Vợ",
@@ -2136,12 +2260,12 @@
     },
     {
       "id": "mWxBFm2w2Qc",
-      "title": "Tưởng Lấy Phải Chồng Nghèo Chỉ Biết Nhặt Rác, Nào Ngờ Anh Chính Là CEO Giàu Nhất Thành Phố!",
+      "title": "Ai Cũng Cười Cô Nghèo Lấy Chồng Nghèo, Nào Ngờ Anh Là Tỷ Phú Quyền Thế Khiến Cả Thành Phố Kính Sợ!",
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-11-06T10:00:30Z",
       "duration_seconds": 3715,
-      "thumbnail_url": "https://i.ytimg.com/vi/mWxBFm2w2Qc/maxresdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/mWxBFm2w2Qc/sddefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -3248,20 +3372,6 @@
       "published_at": "2026-11-05T05:00:03Z",
       "duration_seconds": 11906,
       "thumbnail_url": "https://i.ytimg.com/vi/wKBJgEPHZqY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "bZdbeD1FbQs",
-      "title": "3 GIỜ | Xuyên Làm Đại Sư Huynh Phế Vật - Hệ Thống Thu Mua Hoàn Trả 100% - Nằm Im Ta Tu Thành Đại Đế",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-11-05T04:30:16Z",
-      "duration_seconds": 9662,
-      "thumbnail_url": "https://i.ytimg.com/vi/bZdbeD1FbQs/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
