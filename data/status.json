@@ -1,31 +1,31 @@
 {
   "schema_version": 2,
-  "last_success_at": "2026-11-10T12:21:10Z",
+  "last_success_at": "2026-11-10T20:01:56Z",
   "last_full_refresh_at": "2026-11-09T21:06:38Z",
   "video_counts": {
     "music": 221,
     "edm": 38,
     "shorts": 354,
-    "cartoon": 2932,
-    "drama": 2057,
+    "cartoon": 2945,
+    "drama": 2059,
     "music_shorts": 354,
     "music_long": 38,
-    "movies": 2932
+    "movies": 2945
   },
   "source_counts": {
     "music": 575,
-    "movies": 493,
-    "movies2": 192,
-    "movies3": 268,
+    "movies": 497,
+    "movies2": 193,
+    "movies3": 272,
     "movies4": 600,
-    "movies5": 158,
-    "movies6": 602,
+    "movies5": 161,
+    "movies6": 603,
     "movies7": 624,
     "drama": 125,
-    "drama2": 309,
+    "drama2": 310,
     "drama3": 126,
     "drama4": 313,
-    "drama5": 696,
+    "drama5": 697,
     "drama6": 670
   },
   "sources": {
@@ -37,19 +37,19 @@
     },
     "movies": {
       "handle": "@Thaolac6868",
-      "video_count": 493,
+      "video_count": 497,
       "sync_status": "ok",
       "error": ""
     },
     "movies2": {
       "handle": "@ngukiemtv",
-      "video_count": 192,
+      "video_count": 193,
       "sync_status": "ok",
       "error": ""
     },
     "movies3": {
       "handle": "@nao-phang",
-      "video_count": 268,
+      "video_count": 272,
       "sync_status": "ok",
       "error": ""
     },
@@ -61,13 +61,13 @@
     },
     "movies5": {
       "handle": "@linhsanvietsub.official",
-      "video_count": 158,
+      "video_count": 161,
       "sync_status": "ok",
       "error": ""
     },
     "movies6": {
       "handle": "@daudau.vietsub",
-      "video_count": 602,
+      "video_count": 603,
       "sync_status": "ok",
       "error": ""
     },
@@ -85,7 +85,7 @@
     },
     "drama2": {
       "handle": "@SoraDub28",
-      "video_count": 309,
+      "video_count": 310,
       "sync_status": "ok",
       "error": ""
     },
@@ -103,7 +103,7 @@
     },
     "drama5": {
       "handle": "@Gado-GadoClips-o1b",
-      "video_count": 696,
+      "video_count": 697,
       "sync_status": "ok",
       "error": ""
     },
