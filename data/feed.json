@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T20:01:56Z",
-  "last_full_refresh_at": "2026-11-09T21:06:38Z",
+  "generated_at": "2026-11-11T00:54:59Z",
+  "last_full_refresh_at": "2026-11-11T00:54:59Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -118,6 +118,62 @@
     }
   },
   "videos": [
+    {
+      "id": "t3mTkzzoEBo",
+      "title": "Say Rượu Qua Đêm Với Sếp Tổng, Cô Uống Nhầm Thuốc Hết Hạn Rồi Mang Thai, Nào Ngờ Anh Đòi Cưới Ngay",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-11T00:00:20Z",
+      "duration_seconds": 8552,
+      "thumbnail_url": "https://i.ytimg.com/vi/t3mTkzzoEBo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "YvdctaWq4rg",
+      "title": "Phần 5(130): Nghịch Đồ Cầu Tiên",
+      "channel": "movies3",
+      "channel_title": "Não Phẳng Tu Tiên",
+      "published_at": "2026-11-10T23:09:29Z",
+      "duration_seconds": 6775,
+      "thumbnail_url": "https://i.ytimg.com/vi/YvdctaWq4rg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "tpzxVG4wPms",
+      "title": "MÙA 2 | Vạn Cổ Đệ Nhất Phế Tài, Hỗn Độn Tháp Dẫn Ta Tu Tà Đạo | 7 Giờ Thỏa Mãn : D",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-10T23:00:32Z",
+      "duration_seconds": 28126,
+      "thumbnail_url": "https://i.ytimg.com/vi/tpzxVG4wPms/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "q50eHxioj-Q",
+      "title": "Phần 9 | Nhất Mộng Thanh Huyền, Tiểu Sư Muội Đoàn Sủng Nhất Kiếm Phá Cửu Thiên",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-10T20:10:09Z",
+      "duration_seconds": 11009,
+      "thumbnail_url": "https://i.ytimg.com/vi/q50eHxioj-Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "FqY1N5gkIGs",
       "title": "Phần 48: Phàm Nhân Tu Tiên: Không Có Linh Căn Vẫn Có Thể Tu Tiên",
@@ -1282,7 +1338,7 @@
     },
     {
       "id": "zi7ENS1M_WI",
-      "title": "Ngày Đầu Làm Dâu, Tưởng Cô Yếu Đuối, Nào Ngờ Bình Tĩnh Đối Đầu Sát Thủ, Khiến Nhà Chồng Kinh Ngạc!",
+      "title": "Ngày Đầu Làm Dâu Tưởng Dễ Bắt Nạt, Nào Ngờ Cô Là Cao Thủ Khiến Cả Nhà Chồng Khiếp Sợ!",
       "channel": "drama4",
       "channel_title": "Câu Chuyện Tình Yêu",
       "published_at": "2026-11-09T10:44:36Z",
@@ -1656,20 +1712,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "B9vlbTGuNHY",
-      "title": "Chồng Bỏ Mặc Vợ Mang Song Thai Bị Tai Nạn Để Chăm Nhân Tình, Nào Ngờ Cô Vẫn Còn Một Đứa Con Sống",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-09T03:00:06Z",
-      "duration_seconds": 10587,
-      "thumbnail_url": "https://i.ytimg.com/vi/B9vlbTGuNHY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -3449,20 +3491,6 @@
       ]
     },
     {
-      "id": "rPBkG46rxLc",
-      "title": "Sếp Cướp Tên 3 Bằng Sáng Chế Của Anh, Chỉ Thưởng 60 Nghìn Tệ, Nào Ngờ Anh Kiện Thắng 770 Nghìn Tệ!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-07T02:00:29Z",
-      "duration_seconds": 5948,
-      "thumbnail_url": "https://i.ytimg.com/vi/rPBkG46rxLc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "-mbawVfnotY",
       "title": "Cường Giả Đột Phá Thất Bại Bất Ngờ Kích Hoạt Hệ Thống Định Mệnh, Một Khi Giác Ngộ Liền Vô Địch!",
       "channel": "movies2",
@@ -3526,20 +3554,6 @@
       "published_at": "2026-11-07T00:00:28Z",
       "duration_seconds": 4471,
       "thumbnail_url": "https://i.ytimg.com/vi/q86dCSvWkO0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "RQ1HweYjs8I",
-      "title": "Chồng Đưa Tình Đầu Đi Du Lịch Cùng Vợ, Còn Lén Chuyển 2 Triệu Tệ, Nào Ngờ Vợ Là Nữ Tổng Tài!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-06T22:00:20Z",
-      "duration_seconds": 5495,
-      "thumbnail_url": "https://i.ytimg.com/vi/RQ1HweYjs8I/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -3687,20 +3701,6 @@
       ]
     },
     {
-      "id": "Kns46HMKKPI",
-      "title": "Giả Làm Ăn Xin Để Tìm Vợ, Chủ Tịch Được Cô Gái Cho 100 Tệ, Nào Ngờ Anh Tặng Lại Tấm Séc 5 Triệu Tệ",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-06T13:00:31Z",
-      "duration_seconds": 4578,
-      "thumbnail_url": "https://i.ytimg.com/vi/Kns46HMKKPI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "r-4OpTgg-6E",
       "title": "P1-3 | 17,5 GIỜ | Xuyên Làm Thái Tử Bù Nhìn - Dùng Sức Mạnh Thống Nhất Giang Sơn",
       "channel": "movies",
@@ -3736,20 +3736,6 @@
       "published_at": "2026-11-06T12:07:32Z",
       "duration_seconds": 5677,
       "thumbnail_url": "https://i.ytimg.com/vi/mHyj6XIl7LU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "MAD00r5-TFg",
-      "title": "Chồng Giữ Hết Lương Vợ 5 Năm, Đòi 550 Nghìn Tệ Cho Em Gái Du Học, Nào Ngờ Tài Khoản Chỉ Có 200 Tệ!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-06T12:00:38Z",
-      "duration_seconds": 5283,
-      "thumbnail_url": "https://i.ytimg.com/vi/MAD00r5-TFg/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -4023,20 +4009,6 @@
       ]
     },
     {
-      "id": "-ILtFrFnBNo",
-      "title": "Em Gái Trộm Đơn Thuốc Rồi Nhận Công Cứu Người, Nào Ngờ Chị Là Thần Y Khiến Giới Y Học Sững Sờ",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-06T07:00:13Z",
-      "duration_seconds": 8559,
-      "thumbnail_url": "https://i.ytimg.com/vi/-ILtFrFnBNo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "lmZqQQbWD_U",
       "title": "Vừa Xuyên Không Đến Tu Tiên Giới, Hắn Đã Có Sức Hút Nghịch Thiên, Khiến Sáu Đại Thiên Tài Tranh Đoạt",
       "channel": "movies2",
@@ -4118,20 +4090,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "3ZifqTYg5Hk",
-      "title": "Bỏ Cô Dâu Ở Lễ Đường Để Chăm Con Tình Đầu, Chú Rể Bị Nữ Chủ Tịch Hủy Cưới, Rút Ngay 300 Triệu Tệ",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-06T05:00:19Z",
-      "duration_seconds": 5231,
-      "thumbnail_url": "https://i.ytimg.com/vi/3ZifqTYg5Hk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -4289,20 +4247,6 @@
       ]
     },
     {
-      "id": "gvJqNePASF4",
-      "title": "Cha Nghèo Bị Ép Mặc Đồ Hề Giữa Tiệc 30 Năm Tập Đoàn, Nào Ngờ Con Trai Trở Thành Tân Chủ Tịch!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-06T02:00:39Z",
-      "duration_seconds": 4914,
-      "thumbnail_url": "https://i.ytimg.com/vi/gvJqNePASF4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "lIfLzPY0Iek",
       "title": "[FULL S3-5] AI GIẤU MẤT NÚT THOÁT GAME CỦA TA ĐÂU MẤT RỒI | LY VIETSUB 229",
       "channel": "movies4",
@@ -4373,34 +4317,6 @@
       ]
     },
     {
-      "id": "qWeMPn-WkIc",
-      "title": "Thiên Kim Thật Bị Gài Bẫy Mất Chức Phó Tổng, Nào Ngờ Kẻ Vu Khống Tự Lộ Sơ Hở, Cô Được Phục Chức!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-06T00:00:10Z",
-      "duration_seconds": 5327,
-      "thumbnail_url": "https://i.ytimg.com/vi/qWeMPn-WkIc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "RSRiwTIPp4E",
-      "title": "Nghe Con Gái Ước Chú Lục Là Bố, Chồng Ly Hôn Sau Nhiều Năm Hy Sinh, Khiến Vợ Hối Hận Thật Muộn Màng",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T23:00:29Z",
-      "duration_seconds": 5094,
-      "thumbnail_url": "https://i.ytimg.com/vi/RSRiwTIPp4E/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "imqthbSsq10",
       "title": "Xuyên Không Thành Tộc Trưởng, Đầu Tư Cho Tộc Nhân Nhận Hoàn Trả Vạn Lần (MÙA 1+2) Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -4464,20 +4380,6 @@
       "published_at": "2026-11-05T13:30:06Z",
       "duration_seconds": 5580,
       "thumbnail_url": "https://i.ytimg.com/vi/QP6fmLkKL_U/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "h-rt3N0eliA",
-      "title": "Vợ Bỏ Chồng Nghèo Theo Thiếu Gia Giàu Có, Nào Ngờ Anh Là Long Vương, Khiến Cô Hối Hận Xin Tái Hôn!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T13:00:06Z",
-      "duration_seconds": 10779,
-      "thumbnail_url": "https://i.ytimg.com/vi/h-rt3N0eliA/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -4555,20 +4457,6 @@
       ]
     },
     {
-      "id": "rYBRh-zHGzo",
-      "title": "Vợ Ly Hôn Khi Tưởng Trúng 56 Triệu Tệ, Nào Ngờ Vé Hỏng, Chồng Trúng Thật Khiến Cô Quỳ Xin Tái Hôn!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T12:00:21Z",
-      "duration_seconds": 4823,
-      "thumbnail_url": "https://i.ytimg.com/vi/rYBRh-zHGzo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "GK6VQ8rSOoY",
       "title": "4,5 GIỜ | Thiếu Chủ Ngoài Giá Thú Không Còn Ẩn Mình - Ta Bất Bại Trong Thế Giới Tu Tiên",
       "channel": "movies",
@@ -4590,20 +4478,6 @@
       "published_at": "2026-11-05T11:30:07Z",
       "duration_seconds": 3407,
       "thumbnail_url": "https://i.ytimg.com/vi/lDMf_-Mx1rE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "_VEMpDCKyw4",
-      "title": "Cha Mẹ Lấy 880 Nghìn Tệ Tiền Cưới Con Gái Mua Nhà Cho Em Trai, Nào Ngờ Cô Hoãn Cưới Đòi Lại!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T11:00:37Z",
-      "duration_seconds": 4609,
-      "thumbnail_url": "https://i.ytimg.com/vi/_VEMpDCKyw4/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -4723,20 +4597,6 @@
       ]
     },
     {
-      "id": "FuDTZlWc1iQ",
-      "title": "Trợ Lý Ép Chồng Nữ Tổng Tài Xin Phép Mỗi Khi Tiêu 200 Tệ, Nào Ngờ Anh Là Ông Chủ Quỹ Đầu Tư Lớn!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T10:00:05Z",
-      "duration_seconds": 5273,
-      "thumbnail_url": "https://i.ytimg.com/vi/FuDTZlWc1iQ/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "RNFy2vOw-iw",
       "title": "Trùm Hack Game Đi Tu Tiên: Dùng Thuốc Xổ Bón Hành Cho Con Cưng Thiên Đạo | Đậu Đậu Vietsub",
       "channel": "movies6",
@@ -4776,20 +4636,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "fRvqkmatFU4",
-      "title": "Mẹ Nuôi Trở Về Sau Ba Năm Bị Cha Mẹ Ruột Con Khinh Rẻ, Nào Ngờ Bà Là Chủ Tịch Tập Đoàn Đồng Phúc!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T09:00:03Z",
-      "duration_seconds": 9587,
-      "thumbnail_url": "https://i.ytimg.com/vi/fRvqkmatFU4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -4863,20 +4709,6 @@
       ]
     },
     {
-      "id": "uL_tF6QSpB0",
-      "title": "Đưa Đón Đồng Nghiệp Cả Năm Chỉ Lấy 100 Tệ, Anh Bị Vu Khống, Nào Ngờ Nghỉ Chở Kiếm Hơn 10 Nghìn Tệ!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T07:00:10Z",
-      "duration_seconds": 4791,
-      "thumbnail_url": "https://i.ytimg.com/vi/uL_tF6QSpB0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "9zxJkr_sRx8",
       "title": "5,5 GIỜ | Vừa Xuyên Không Đã Nhận Thiên Linh Căn - Hệ Thống Lựa Chọn Trở Thành Bất Bại Tam Giới",
       "channel": "movies",
@@ -4926,20 +4758,6 @@
       "published_at": "2026-11-05T05:15:11Z",
       "duration_seconds": 4246,
       "thumbnail_url": "https://i.ytimg.com/vi/eKRMUUWnaZ0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "85VpXvoO8n8",
-      "title": "Chồng Đưa Mẹ Con Người Khác Vào Phòng Dành Cho Con Tương Lai, Nào Ngờ Vợ Ly Hôn Và Không Quay Lại!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T05:00:38Z",
-      "duration_seconds": 5403,
-      "thumbnail_url": "https://i.ytimg.com/vi/85VpXvoO8n8/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -5053,20 +4871,6 @@
       "duration_seconds": 4961,
       "thumbnail_url": "https://i.ytimg.com/vi/mTfsvGDUDLc/maxresdefault.jpg",
       "embeddable": false,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "mCsCx4WLII4",
-      "title": "Vợ Ly Hôn Chồng Nghiện Cờ Bạc, Nào Ngờ Anh Lẻn Vào Quán Trộm 12 Nghìn Tệ Và Bị Camera Vạch Mặt!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T04:00:00Z",
-      "duration_seconds": 4790,
-      "thumbnail_url": "https://i.ytimg.com/vi/mCsCx4WLII4/maxresdefault.jpg",
-      "embeddable": true,
       "kind": "regular",
       "categories": [
         "drama"
@@ -5199,20 +5003,6 @@
       ]
     },
     {
-      "id": "8QPYDmQtpgo",
-      "title": "Mẹ Đơn Thân Đùa Muốn Làm Dâu Bà Căn Tin, Nào Ngờ Bà Nắm 36% Cổ Phần, Con Trai Là Tổng Tài 1000 Tỷ",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-05T01:00:07Z",
-      "duration_seconds": 5201,
-      "thumbnail_url": "https://i.ytimg.com/vi/8QPYDmQtpgo/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "iRHem3AAKzE",
       "title": "Phần 23: Không Có Chút Tu Vi, Ta Tưởng Mình Là Phế Vật Cho Đến Khi Lão Tổ Gọi Ta Tiền Bối",
       "channel": "movies3",
@@ -5280,20 +5070,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "t7qWQu2dF-4",
-      "title": "Ông Lão 60 Tuổi Bị Vợ Chê Nghèo, Con Riêng Cuỗm 800 Nghìn Tệ, Nào Ngờ Ly Hôn Xong Trẻ Lại 5 Tuổi!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-04T22:00:34Z",
-      "duration_seconds": 7700,
-      "thumbnail_url": "https://i.ytimg.com/vi/t7qWQu2dF-4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -5480,20 +5256,6 @@
       ]
     },
     {
-      "id": "8ghHzh3iTVc",
-      "title": "Bị Bạn Gái Chê Nghèo, Anh Xuyên Không Đến Thế Giới Hiếm Đàn Ông, Nào Ngờ Được Ghép Cưới Nữ Tổng Tài",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-04T12:00:25Z",
-      "duration_seconds": 7182,
-      "thumbnail_url": "https://i.ytimg.com/vi/8ghHzh3iTVc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "9U0ZxcTI1Ko",
       "title": "Suami Pasang CCTV Pantau Ibu Sakit, Istri Bawa Selingkuhan Bercinta, Pura Pura Hamil demi Uang",
       "channel": "drama5",
@@ -5533,20 +5295,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "fmGGjfqfdpY",
-      "title": "Thiếu Gia Coi Cô Là Kẻ Ham Tiền, Nào Ngờ Bà Nội Ép Anh Cưới Cô Theo Hợp Đồng Và Dần Phải Lòng Cô!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-04T11:00:13Z",
-      "duration_seconds": 8128,
-      "thumbnail_url": "https://i.ytimg.com/vi/fmGGjfqfdpY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -5683,20 +5431,6 @@
       "published_at": "2026-11-04T09:20:51Z",
       "duration_seconds": 4054,
       "thumbnail_url": "https://i.ytimg.com/vi/MwkJgbR1KnM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "b679enOLA-g",
-      "title": "Bị Ép Cưới Bằng 600 Nghìn Tệ Tiền Nhà, Cô Gái Dứt Khoát Từ Chối, Nào Ngờ Tự Nguyện Bàn Chuyện Cưới!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-04T09:00:19Z",
-      "duration_seconds": 7332,
-      "thumbnail_url": "https://i.ytimg.com/vi/b679enOLA-g/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -5928,20 +5662,6 @@
       ]
     },
     {
-      "id": "tE6TpDehx8Q",
-      "title": "Em Trai Được Hào Môn Nhận Lại, Chị Gái Bàng Hoàng Khi Biết Anh Ruột Cậu Là Tổng Giám Đốc Của Mình!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-04T04:00:28Z",
-      "duration_seconds": 11151,
-      "thumbnail_url": "https://i.ytimg.com/vi/tE6TpDehx8Q/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "ZZ-W8q_p0kg",
       "title": "Shipper Âm Phủ: Giao Hàng Cho Ma Đổi Mạng Lấy Tiền | Đậu Đậu Vietsub",
       "channel": "movies6",
@@ -6065,20 +5785,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "b_XjX1J3iY8",
-      "title": "Bác Cả Chê Cháu Gái Sửa Phòng Cưới 300 Nghìn Tệ Quá Đắt, Nào Ngờ Thuê Thợ Rẻ Khiến Cả Nhà Trả Giá!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-04T02:00:03Z",
-      "duration_seconds": 4607,
-      "thumbnail_url": "https://i.ytimg.com/vi/b_XjX1J3iY8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -6250,20 +5956,6 @@
       ]
     },
     {
-      "id": "3NZ4P_yiB2Q",
-      "title": "Con Gái Chi 160 Nghìn Tệ Mừng Thọ Bố Chồng, Nhưng Hủy Vé 3.800 Tệ Khiến Bố Ruột Lỡ Tết!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-03T13:00:09Z",
-      "duration_seconds": 6086,
-      "thumbnail_url": "https://i.ytimg.com/vi/3NZ4P_yiB2Q/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "Bhh6aCjjqdY",
       "title": "Đệ Tử Tạp Dịch Ngũ Linh Căn - Ta Có Gương Thần Sao Chép Vạn Vật - Âm Thầm Mạnh Nhất Tông Môn",
       "channel": "movies",
@@ -6432,20 +6124,6 @@
       ]
     },
     {
-      "id": "g9F6HFZFJEA",
-      "title": "Cô Gái Bán Đồ Kho Bị Nhà Giàu Khinh Rẻ, Nào Ngờ Là Thiên Kim Thất Lạc Và Cưới Thiếu Gia Hào Môn Đó!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-03T11:00:26Z",
-      "duration_seconds": 5964,
-      "thumbnail_url": "https://i.ytimg.com/vi/g9F6HFZFJEA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "4Z4Jz4LlZTI",
       "title": "Bị Bắt Vào Cuộc Đua Tử Thần, Tôi Sở Hữu Chiến Xa Khiến Mọi Bang Hội Khiếp Sợ | Đậu Đậu Vietsub",
       "channel": "movies6",
@@ -6558,20 +6236,6 @@
       ]
     },
     {
-      "id": "Y-lXF3OgCDU",
-      "title": "Bị Em Gái Kế Hãm Hại Vào Tù, Cô Trọng Sinh 7 Năm Trước, Nào Ngờ Thiếu Gia Cũng Sống Lại Để Cứu Cô!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-03T09:00:14Z",
-      "duration_seconds": 8071,
-      "thumbnail_url": "https://i.ytimg.com/vi/Y-lXF3OgCDU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "Gns4axe7zys",
       "title": "Đại Hoàng Tử Vô Dụng - Nào Ngờ Văn Võ Song Toàn Từ Lâu - Tài Năng Không Thể Giấu Diếm Được Nữa",
       "channel": "movies",
@@ -6656,20 +6320,6 @@
       ]
     },
     {
-      "id": "8R-WHnI3T6c",
-      "title": "Cô Bảo Mẫu Bị Vu Trộm Vòng Vàng Rồi Đuổi Việc, Nào Ngờ Phát Hiện Chiếc Mũ Khiến Em Bé Khóc 3 Ngày!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-03T05:00:31Z",
-      "duration_seconds": 4454,
-      "thumbnail_url": "https://i.ytimg.com/vi/8R-WHnI3T6c/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "SKycd2YMYdY",
       "title": "Gadis Ditabrak Mobil, Bangun Jadi Putri Miliarder, Keluarga Dengar Isi Hati, Bantu Lawan Putri Palsu",
       "channel": "drama5",
@@ -6747,20 +6397,6 @@
       "published_at": "2026-11-03T04:00:34Z",
       "duration_seconds": 3324,
       "thumbnail_url": "https://i.ytimg.com/vi/446EHlf9r7M/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "9KmIEzJKt50",
-      "title": "Nữ Tỷ Phú Có 800 Triệu Tệ Giả Phá Sản Để Thử Lòng Bạn Thân, Nào Ngờ Chỉ Cô Gái Nghèo Cho 2.300 Tệ!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-03T04:00:17Z",
-      "duration_seconds": 6345,
-      "thumbnail_url": "https://i.ytimg.com/vi/9KmIEzJKt50/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -6852,20 +6488,6 @@
       ]
     },
     {
-      "id": "yx3e2jWCTA8",
-      "title": "Em Trai Nợ Cờ Bạc 300 Nghìn Tệ Ép Chị Trả Nợ, Nào Ngờ Chị Là Nữ Tổng Tài Lương 10 Triệu Tệ Mỗi Năm!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-03T02:00:36Z",
-      "duration_seconds": 5471,
-      "thumbnail_url": "https://i.ytimg.com/vi/yx3e2jWCTA8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "IVqgmzMWmQg",
       "title": "Xuyên Không Đến Loạn Thế, Hắn Kích Hoạt Hệ Thống Quân Sư, Nhưng Phần Thưởng Lại Là Sức Mạnh Vô Địch!",
       "channel": "movies2",
@@ -6922,20 +6544,6 @@
       ]
     },
     {
-      "id": "j9htJ-_HcmM",
-      "title": "Vợ Ép Chồng 38 Tuổi Ly Hôn Vì Chê Già, Nào Ngờ Anh Kích Hoạt Hệ Thống Trẻ Hóa, Nữ Tổng Tài Đòi Cưới!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-03T00:00:13Z",
-      "duration_seconds": 9773,
-      "thumbnail_url": "https://i.ytimg.com/vi/j9htJ-_HcmM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "pygEFhk_b-I",
       "title": "8 Tiếng | Ta Có Thể Hồi Sinh Vô Hạn Lần | Mùa 1+2+3 | Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -6985,20 +6593,6 @@
       "published_at": "2026-11-02T21:21:22Z",
       "duration_seconds": 9112,
       "thumbnail_url": "https://i.ytimg.com/vi/1RQJULKDfEw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "QpJ5px-UBiw",
-      "title": "Phần 5 | Sơn Tặc Xuyên Không Đi Tu Tiên, Ta Dùng Võ Thần Quyết Quậy Tung Tu Tiên Giới",
-      "channel": "movies5",
-      "channel_title": "Linh San Vietsub",
-      "published_at": "2026-11-02T17:41:08Z",
-      "duration_seconds": 9777,
-      "thumbnail_url": "https://i.ytimg.com/vi/QpJ5px-UBiw/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -7202,20 +6796,6 @@
       ]
     },
     {
-      "id": "-k_D6Uc7WXA",
-      "title": "Phần 20 | Thái Huyền Thai Châu Truyện",
-      "channel": "movies5",
-      "channel_title": "Linh San Vietsub",
-      "published_at": "2026-11-02T10:44:22Z",
-      "duration_seconds": 8531,
-      "thumbnail_url": "https://i.ytimg.com/vi/-k_D6Uc7WXA/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "tiDObVBCan4",
       "title": "Trọng Sinh Về Cổ Đại Thành Công Tử Ăn Chơi, Hắn Giả Ngốc Suốt Ngày Để Âm Thầm Báo Thù!",
       "channel": "movies2",
@@ -7381,20 +6961,6 @@
       "kind": "regular",
       "categories": [
         "music"
-      ]
-    },
-    {
-      "id": "iqq0Ip-Lc1Q",
-      "title": "Cô Gái Xuyên Sách Thành Mẹ Kế Độc Ác, Nào Ngờ Khiến Tổng Tài Lạnh Lùng Và Con Riêng Đều Yêu Quý Cô!",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-02T07:00:23Z",
-      "duration_seconds": 8069,
-      "thumbnail_url": "https://i.ytimg.com/vi/iqq0Ip-Lc1Q/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -8399,20 +7965,6 @@
       "published_at": "2026-10-31T23:00:35Z",
       "duration_seconds": 15887,
       "thumbnail_url": "https://i.ytimg.com/vi/y1p3w8ACK3A/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "g9pzjIaC_qU",
-      "title": "Phần 21 | Thái Huyền Thai Châu Truyện",
-      "channel": "movies5",
-      "channel_title": "Linh San Vietsub",
-      "published_at": "2026-10-31T17:53:41Z",
-      "duration_seconds": 7908,
-      "thumbnail_url": "https://i.ytimg.com/vi/g9pzjIaC_qU/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -10186,20 +9738,6 @@
       ]
     },
     {
-      "id": "0XI7qKOiXrc",
-      "title": "P1-3 | 14,5 Giờ Thỏa Mãn | Xuyên Làm Thái Tử Phản Diện - Mạnh Mẽ Quyết Đoán Cùng Trí Tuệ Thiên Tài",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-29T07:55:52Z",
-      "duration_seconds": 52254,
-      "thumbnail_url": "https://i.ytimg.com/vi/0XI7qKOiXrc/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "REAgzzt-juQ",
       "title": "Phần 2 | Trường Sinh Bất Diệt Quyết - Thiếu Gia Phế Vật Lại Là Thiên Tài Tu Luyện Vô Địch Ẩn Danh",
       "channel": "movies",
@@ -10305,20 +9843,6 @@
       "published_at": "2026-10-29T05:00:35Z",
       "duration_seconds": 3127,
       "thumbnail_url": "https://i.ytimg.com/vi/jirA6xR1iz4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
-      "id": "NvotasTpIoU",
-      "title": "Phần 1-4 | 19 Giờ Thỏa Mãn | Vợ Ta Không Hề Đơn Giản - Vào Tù Chọn Vợ Nào Ngờ Toàn Người Quyền Lực",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-10-29T04:26:29Z",
-      "duration_seconds": 68972,
-      "thumbnail_url": "https://i.ytimg.com/vi/NvotasTpIoU/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -22131,20 +21655,6 @@
       "duration_seconds": 3827,
       "thumbnail_url": "https://i.ytimg.com/vi/XdSl4tpt6-M/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "wYGV2Y_vuGQ",
-      "title": "Dewa Perang Pasukan Khusus Pulang, Lihat Ayah Dihina Calon Istri, Langsung Mengamuk Hajar Semua!",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-10-11T04:00:30Z",
-      "duration_seconds": 6243,
-      "thumbnail_url": "https://i.ytimg.com/vi/wYGV2Y_vuGQ/maxresdefault.jpg",
-      "embeddable": false,
       "kind": "regular",
       "categories": [
         "drama"
@@ -53381,20 +52891,6 @@
       ]
     },
     {
-      "id": "F4GuU7Jild4",
-      "title": "5-6 | BỒ ĐỀ XUỐNG NÚI | HỒNG HOANG CHIẾN | LY VIETSUB 265",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-08-01T04:25:30Z",
-      "duration_seconds": 907,
-      "thumbnail_url": "https://i.ytimg.com/vi/F4GuU7Jild4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "hGJjmnqkVns",
       "title": "Petugas Kebersihan Diremehkan, Sekilas Temukan Kelemahan Juara Dan Kalahkan Dia Dalam Tiga Jurus",
       "channel": "drama5",
@@ -54585,20 +54081,6 @@
       ]
     },
     {
-      "id": "epjsEpr0tUQ",
-      "title": "[S2] TU TIÊN PHONG CÁCH 4.0 | LY VIETSUB 560",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-07-27T10:05:53Z",
-      "duration_seconds": 6651,
-      "thumbnail_url": "https://i.ytimg.com/vi/epjsEpr0tUQ/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "HtkMnrv5kRc",
       "title": "Ai cũng đợi cô bị CEO bỏ, ngủ ngoài đường – cho đến khi cô mua cả tòa nhà, cả thành phố sốc!",
       "channel": "drama4",
@@ -54638,20 +54120,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "8hPvKo_4CNM",
-      "title": "1-4 | BỒ ĐỀ XUỐNG NÚI | HỒNG HOANG CHIẾN | LY VIETSUB 265",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-07-27T05:51:17Z",
-      "duration_seconds": 1779,
-      "thumbnail_url": "https://i.ytimg.com/vi/8hPvKo_4CNM/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -54918,20 +54386,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "H8BIzVgWqno",
-      "title": "[S1] TU TIÊN PHONG CÁCH 4.0 | LY VIETSUB 560",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-07-26T04:20:15Z",
-      "duration_seconds": 10575,
-      "thumbnail_url": "https://i.ytimg.com/vi/H8BIzVgWqno/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -56587,20 +56041,6 @@
       ]
     },
     {
-      "id": "ifh7NUKl8Pc",
-      "title": "Kurir Baik Hati Menolong Gadis Pengemis, Tak Disangka Dia CEO Cantik Yang Ingin Menikah Dengannya",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-07-19T10:00:13Z",
-      "duration_seconds": 3319,
-      "thumbnail_url": "https://i.ytimg.com/vi/ifh7NUKl8Pc/maxresdefault.jpg",
-      "embeddable": false,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "bjFUa7Ks4A8",
       "title": "Full Version | Bị Ép Lấy Cô Vợ Thực Vật, Nào Ngờ Cô Ấy Nghe Được Mọi Lời Tôi Nói | Sora Dub",
       "channel": "drama2",
@@ -56637,20 +56077,6 @@
       "duration_seconds": 9532,
       "thumbnail_url": "https://i.ytimg.com/vi/qpw0g-e_Eks/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "8BYGM7o4QgU",
-      "title": "Pengemis Tersesat Di Pulau Terpencil, Memergoki Tiga CEO Cantik Mandi, Dapat Sistem Bertahan Hidup",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-07-19T04:00:25Z",
-      "duration_seconds": 6620,
-      "thumbnail_url": "https://i.ytimg.com/vi/8BYGM7o4QgU/maxresdefault.jpg",
-      "embeddable": false,
       "kind": "regular",
       "categories": [
         "drama"
@@ -56794,20 +56220,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "ScFNJfk-W40",
-      "title": "94-112 | BỒ ĐỀ LÃO TỔ | HỒNG HOANG CHIẾN | LY VIETSUB 644",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-07-18T11:52:17Z",
-      "duration_seconds": 8147,
-      "thumbnail_url": "https://i.ytimg.com/vi/ScFNJfk-W40/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -66541,20 +65953,6 @@
       ]
     },
     {
-      "id": "jgFiUnTTVpE",
-      "title": "1-93 | BỒ ĐỀ LÃO TỔ | HỒNG HOANG CHIẾN | LY VIETSUB 644",
-      "channel": "movies4",
-      "channel_title": "Ly VietSub",
-      "published_at": "2026-04-22T11:15:05Z",
-      "duration_seconds": 33347,
-      "thumbnail_url": "https://i.ytimg.com/vi/jgFiUnTTVpE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
-      ]
-    },
-    {
       "id": "aw2MMcK5znc",
       "title": "1-34 | SĂN GIẾT HẠO THIÊN | ĐẤU LA ĐẠI LỤC | LY VIETSUB 312",
       "channel": "movies4",
@@ -68985,6 +68383,20 @@
       ]
     },
     {
+      "id": "qwcBulLOZgk",
+      "title": "NỮ OA GIÁNG THẾ | HỒNG HOANG CHIẾN | LY VIETSUB 360",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-26T04:15:06Z",
+      "duration_seconds": 39097,
+      "thumbnail_url": "https://i.ytimg.com/vi/qwcBulLOZgk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "HEc6sKUsXEA",
       "title": "Xuyên Không Dị Giới,Thức Tỉnh Hệ Thống Hoàn Thành Di Nguyện Nhận Thưởng(TẬP 83-86)Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -68992,6 +68404,34 @@
       "published_at": "2026-03-26T04:00:12Z",
       "duration_seconds": 1120,
       "thumbnail_url": "https://i.ytimg.com/vi/HEc6sKUsXEA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "8QMV2G5ruCM",
+      "title": "15-21 | BÁI SƯ THÔNG THIÊN | HỒNG HOANG CHIẾN | LYVIETSUB 185",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-26T01:58:01Z",
+      "duration_seconds": 1814,
+      "thumbnail_url": "https://i.ytimg.com/vi/8QMV2G5ruCM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "veH1jBr6Qts",
+      "title": "HỒNG HOANG ĐAN SƯ | HỒNG HOANG CHIẾN | LY VIETSUB 750",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-25T12:15:07Z",
+      "duration_seconds": 4880,
+      "thumbnail_url": "https://i.ytimg.com/vi/veH1jBr6Qts/maxresdefault.jpg",
       "embeddable": true,
       "kind": "regular",
       "categories": [
@@ -69027,6 +68467,34 @@
       ]
     },
     {
+      "id": "y7NksGCuxXA",
+      "title": "MA THẦN THƠI GIAN | HỒNG HOANG CHIẾN | LY VIETSUB 700",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-25T10:45:06Z",
+      "duration_seconds": 6313,
+      "thumbnail_url": "https://i.ytimg.com/vi/y7NksGCuxXA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "K1Sv4mCdXjo",
+      "title": "TẬP 1-3 | UY CHẤN TIỆT GIÁO | HỒNG HOANG CHIẾN | LY VIETSUB",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-25T10:15:03Z",
+      "duration_seconds": 1165,
+      "thumbnail_url": "https://i.ytimg.com/vi/K1Sv4mCdXjo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
       "id": "w2amm304ygA",
       "title": "Xuyên Không Thành Nông Dân Bị Người Thân Hắt Hủi, Nghịch Tập Đỗ Trạng Nguyên | Tại hạ Lệ Phi Dũng",
       "channel": "movies7",
@@ -69052,6 +68520,20 @@
       "kind": "regular",
       "categories": [
         "drama"
+      ]
+    },
+    {
+      "id": "mJMV7TP9cbc",
+      "title": "HỖN ĐỘN MA VIÊN | HỒNG HOANG CHIẾN | LY VIETSUB 565",
+      "channel": "movies4",
+      "channel_title": "Ly VietSub",
+      "published_at": "2026-03-25T04:15:03Z",
+      "duration_seconds": 2017,
+      "thumbnail_url": "https://i.ytimg.com/vi/mJMV7TP9cbc/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
       ]
     },
     {
