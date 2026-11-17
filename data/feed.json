@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T17:28:52Z",
+  "generated_at": "2026-11-17T01:05:54Z",
   "last_full_refresh_at": "2026-11-16T17:28:52Z",
   "channels": {
     "music": {
@@ -118,6 +118,76 @@
     }
   },
   "videos": [
+    {
+      "id": "N7AGfdjFYZU",
+      "title": "P1-2 | 6,5 GIỜ | Nữ Đế Trọng Sinh Bái Sư Tôn Phế Vật - Nào Ngờ Ngài Đã Vô Địch Từ Rất Lâu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-17T00:51:53Z",
+      "duration_seconds": 22287,
+      "thumbnail_url": "https://i.ytimg.com/vi/N7AGfdjFYZU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "iEF7yF-9oSo",
+      "title": "CEO Tỷ Phú Giấu Thân Phận Làm Tài Xế Đi Xem Mắt, Nào Ngờ Cô Giáo Chẳng Chê Nghèo Lại Còn Yêu Anh",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-17T00:00:19Z",
+      "duration_seconds": 2588,
+      "thumbnail_url": "https://i.ytimg.com/vi/iEF7yF-9oSo/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "VuBd5uKwvvQ",
+      "title": "Danh Vọng Thành Đạo: Phân Thân Của Ta Rải Khắp Thế Giới (MÙA 1) Tại hạ Lệ Phi Dũng",
+      "channel": "movies7",
+      "channel_title": "tại hạ Lệ Phi Dũng",
+      "published_at": "2026-11-16T23:00:28Z",
+      "duration_seconds": 12345,
+      "thumbnail_url": "https://i.ytimg.com/vi/VuBd5uKwvvQ/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "Y1ZOTyjf2sE",
+      "title": "CEO Từng Bỏ Rơi Bạn Gái 8 Năm Rồi Trở Về Cưới Chị Cô, Nào Ngờ Anh Chỉ Yêu Một Mình Cô Suốt 12 Năm",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-16T22:30:14Z",
+      "duration_seconds": 14880,
+      "thumbnail_url": "https://i.ytimg.com/vi/Y1ZOTyjf2sE/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ft9UXxiPD1Q",
+      "title": "Phần 28 | Thái Huyền Thai Châu Truyện",
+      "channel": "movies5",
+      "channel_title": "Linh San Vietsub",
+      "published_at": "2026-11-16T20:36:51Z",
+      "duration_seconds": 9534,
+      "thumbnail_url": "https://i.ytimg.com/vi/ft9UXxiPD1Q/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
     {
       "id": "J6pxnLUMRyI",
       "title": "Phần 6 | Trảm Thần Quan, Ta Chết Đi Sống Lại, Thức Tỉnh Thần Tai Chi Thể",
