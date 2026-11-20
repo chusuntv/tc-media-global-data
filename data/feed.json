@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T23:52:45Z",
-  "last_full_refresh_at": "2026-11-19T00:44:39Z",
+  "generated_at": "2026-11-20T06:38:04Z",
+  "last_full_refresh_at": "2026-11-20T06:38:04Z",
   "channels": {
     "music": {
       "id": "UC4WZoFBNn6s-_mnMblVjuVg",
@@ -118,6 +118,286 @@
     }
   },
   "videos": [
+    {
+      "id": "r3ftK3DeOUI",
+      "title": "3,5 GIỜ | Thiếu Chủ Lập Tức Thành Chuẩn Đế Đại Viên Mãn Sau Khi Bị Vu Oan - Chấp Cả Vạn Thiên Kiêu",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T06:30:34Z",
+      "duration_seconds": 12034,
+      "thumbnail_url": "https://i.ytimg.com/vi/r3ftK3DeOUI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "j-f2-GlbhQA",
+      "title": "Saat di Pasar Dengar Adik Dipermalukan, Dewa Perang Murka! Panggil Ular Dewa, Habisi Semua Pelaku!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-20T05:00:32Z",
+      "duration_seconds": 6079,
+      "thumbnail_url": "https://i.ytimg.com/vi/j-f2-GlbhQA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "i2-XEO5rDlg",
+      "title": "Sở Hữu Đội Ngũ Toàn Siêu Dị Năng Ta Thức Tỉnh Cấp F1 Càn Quét Giải Đấu Thiên Khung | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-20T05:00:23Z",
+      "duration_seconds": 10244,
+      "thumbnail_url": "https://i.ytimg.com/vi/i2-XEO5rDlg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "jtLloyba7LM",
+      "title": "Pengemis Tidur Siang Dikepung Pasukan Khusus Untuk Ditangkap, Ternyata Dia Dewa Perang Legendaris",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-20T05:00:17Z",
+      "duration_seconds": 2661,
+      "thumbnail_url": "https://i.ytimg.com/vi/jtLloyba7LM/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "beQPlaOz3mk",
+      "title": "Cô Vợ Hợp Đồng Được Em Trai Chồng Yêu Thầm, Nào Ngờ Anh Đã Yêu Cô Từ Thời Đại Học Mà Không Dám Nói",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-20T05:00:13Z",
+      "duration_seconds": 2262,
+      "thumbnail_url": "https://i.ytimg.com/vi/beQPlaOz3mk/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "ybH7lUkZyKM",
+      "title": "5,5 GIỜ | Ta Đã Trở Thành Thần Chỉ Muốn Sống An Nhàn - Sao Hệ Thống Vẫn Bắt Ta Thu Đồ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T04:20:48Z",
+      "duration_seconds": 19523,
+      "thumbnail_url": "https://i.ytimg.com/vi/ybH7lUkZyKM/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "h5nARkMrdEw",
+      "title": "Tận Thế Bùng Nổ: Dẫn Bạn Cùng Bàn Xinh Đẹp Phá Vòng Vây Xác Sống | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-20T04:00:23Z",
+      "duration_seconds": 6062,
+      "thumbnail_url": "https://i.ytimg.com/vi/h5nARkMrdEw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "RK2Bz53vBfs",
+      "title": "Dewa Perang Mantan Tentara Kelaparan Makan Mi, Melihat CEO Diancam Preman, Lalu Menyelamatkannya",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-20T04:00:13Z",
+      "duration_seconds": 7245,
+      "thumbnail_url": "https://i.ytimg.com/vi/RK2Bz53vBfs/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "uIQUOJcyAlg",
+      "title": "Cô Gái Trả Hết Nợ Rồi Chia Tay Thiếu Gia, Nào Ngờ Anh Tìm Đến Trường Bay Và Quyết Không Buông Tay",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-20T04:00:11Z",
+      "duration_seconds": 10444,
+      "thumbnail_url": "https://i.ytimg.com/vi/uIQUOJcyAlg/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "LkW-FkPi-xw",
+      "title": "Si Kembar Hadang CEO untuk Jual Kalung! Pembelinya Ternyata Ayah Miliarder Mereka yang Amnesia!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-20T04:00:00Z",
+      "duration_seconds": 5460,
+      "thumbnail_url": "https://i.ytimg.com/vi/LkW-FkPi-xw/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "FXrzMXSzrgU",
+      "title": "7 GIỜ THỎA MÃN | Cửu Chuyển Huyền Công - Chỉ Mình Ta Chọn Tu Tiên Cấp Độ Địa Ngục",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T03:48:41Z",
+      "duration_seconds": 24138,
+      "thumbnail_url": "https://i.ytimg.com/vi/FXrzMXSzrgU/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "9zLHS1YS0_s",
+      "title": "Bị hôn phu phản bội, cô cưới đại Tổng Tài lạnh lùng, ai ngờ được cưng chiều hết mực!",
+      "channel": "drama",
+      "channel_title": "Nắng Ngọt Drama",
+      "published_at": "2026-11-20T03:30:34Z",
+      "duration_seconds": 10454,
+      "thumbnail_url": "https://i.ytimg.com/vi/9zLHS1YS0_s/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "2R1BGlf9SC4",
+      "title": "Keluar Penjara, Pergoki Tunangan di Ranjang Pria Lain! Dia yang Menjebaknya, Balas Dendam Diam Diam!",
+      "channel": "drama5",
+      "channel_title": "Gado-Gado Clips",
+      "published_at": "2026-11-20T03:00:15Z",
+      "duration_seconds": 3941,
+      "thumbnail_url": "https://i.ytimg.com/vi/2R1BGlf9SC4/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "w3uvnNxc9CY",
+      "title": "CEO Wanita Dibius, Tidur Dengan Pria Asing Demi Sembuh, Ternyata Miliarder Muda Ingin Menikahinya",
+      "channel": "drama6",
+      "channel_title": "Sambal Clips",
+      "published_at": "2026-11-20T03:00:09Z",
+      "duration_seconds": 7528,
+      "thumbnail_url": "https://i.ytimg.com/vi/w3uvnNxc9CY/maxresdefault.jpg",
+      "embeddable": false,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "KxVdQYY7twA",
+      "title": "Dị Biến Tột Cùng: Kẻ Thức Tỉnh Máu Thần Chống Lại Quân Đoàn Thanh Tẩy | Đậu Đậu Vietsub",
+      "channel": "movies6",
+      "channel_title": "Đậu Đậu Vietsub",
+      "published_at": "2026-11-20T03:00:09Z",
+      "duration_seconds": 10733,
+      "thumbnail_url": "https://i.ytimg.com/vi/KxVdQYY7twA/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "pIPmZlZkmaY",
+      "title": "12 GIỜ THỎA MÃN | Thường Dân Thành Hoàng Đế - Thiên Tài Võ Thuật Thống Lĩnh Vạn Thiết Kỵ",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T02:57:07Z",
+      "duration_seconds": 42395,
+      "thumbnail_url": "https://i.ytimg.com/vi/pIPmZlZkmaY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "O6dAiUzWISI",
+      "title": "CEO Tưởng Vợ Hợp Đồng Muốn Ly Hôn Vì Tình Cũ, Nào Ngờ Cô Đã Yêu Anh Từ Lâu Và Cả Hai Cùng Giấu Kín",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-20T02:00:33Z",
+      "duration_seconds": 7311,
+      "thumbnail_url": "https://i.ytimg.com/vi/O6dAiUzWISI/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
+    {
+      "id": "YIw6nJ7v3p0",
+      "title": "13 GIỜ THỎA MÃN | Lão Tổ Xuất Quan Còn 3 Ngày Thọ Nguyên - Kích Hoạt Hệ Thống Phục Hưng Gia Tộc",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T01:52:48Z",
+      "duration_seconds": 45890,
+      "thumbnail_url": "https://i.ytimg.com/vi/YIw6nJ7v3p0/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "vS84x9ve0-I",
+      "title": "9,5 GIỜ | Xuyên Làm Sai Dịch Nha Môn - Có Sách Thần Thành Thiên Tài Tu Luyện Chiến Thần Diệt Yêu Ma",
+      "channel": "movies",
+      "channel_title": "Thảo Lác ",
+      "published_at": "2026-11-20T01:00:51Z",
+      "duration_seconds": 33137,
+      "thumbnail_url": "https://i.ytimg.com/vi/vS84x9ve0-I/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "id": "aHwAHATFlBY",
+      "title": "Con Nuôi Bị Nhà Giàu Gạt Bỏ Khi Con Ruột Trở Về, Nào Ngờ Cô Đã Bí Mật Cưới CEO Quyền Lực Nổi Tiếng",
+      "channel": "drama3",
+      "channel_title": "Triệu Vy Review",
+      "published_at": "2026-11-20T00:00:21Z",
+      "duration_seconds": 7079,
+      "thumbnail_url": "https://i.ytimg.com/vi/aHwAHATFlBY/maxresdefault.jpg",
+      "embeddable": true,
+      "kind": "regular",
+      "categories": [
+        "drama"
+      ]
+    },
     {
       "id": "uYF7MGrQ5-4",
       "title": "Thiếu Gia Nói Chia Tay Nữ Phi Công, Nào Ngờ Anh Chính Là Khách VIP Trên Chuyến Bay Quốc Tế Của Cô",
@@ -2230,20 +2510,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "Y1ZOTyjf2sE",
-      "title": "CEO Từng Bỏ Rơi Bạn Gái 8 Năm Rồi Trở Về Cưới Chị Cô, Nào Ngờ Anh Chỉ Yêu Một Mình Cô Suốt 12 Năm",
-      "channel": "drama3",
-      "channel_title": "Triệu Vy Review",
-      "published_at": "2026-11-16T22:30:14Z",
-      "duration_seconds": 14880,
-      "thumbnail_url": "https://i.ytimg.com/vi/Y1ZOTyjf2sE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -5408,20 +5674,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "7qsEp1g-QRk",
-      "title": "PHẦN 2 | 4,5 GIỜ | Đội Quân Tỷ Người, Phế Vật Thức Tỉnh Cấp SSS+ Trở Thành Bất Bại Trên Chiến Trường",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-11-12T08:06:45Z",
-      "duration_seconds": 15520,
-      "thumbnail_url": "https://i.ytimg.com/vi/7qsEp1g-QRk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -10856,20 +11108,6 @@
       ]
     },
     {
-      "id": "4q1WcsAJPgM",
-      "title": "Gadis Desa Dipaksa Nikahi Pria Tua, Serahkan Diri Pada Pengemis Di Sungai, Ternyata Dia CEO Rahasia",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-11-04T04:00:15Z",
-      "duration_seconds": 3468,
-      "thumbnail_url": "https://i.ytimg.com/vi/4q1WcsAJPgM/maxresdefault.jpg",
-      "embeddable": false,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "HdIrIksiyho",
       "title": "Dewa Perang Pulang Berbakti, Ibu Dipukul Mantan Istri, Adik Diculik, Bawa Peti Mati Balas Dendam",
       "channel": "drama5",
@@ -11315,20 +11553,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "mBUYCDikH3o",
-      "title": "Mertua Dihina Menantu Seperti Anjing Dan Budak, Ternyata Miliarder Pura-Pura Miskin Lalu Membalas",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-11-03T10:00:09Z",
-      "duration_seconds": 5580,
-      "thumbnail_url": "https://i.ytimg.com/vi/mBUYCDikH3o/maxresdefault.jpg",
-      "embeddable": false,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -15786,20 +16010,6 @@
       ]
     },
     {
-      "id": "xd2carNS-38",
-      "title": "Full Version l Mười Bốn Năm Chờ Một Người, Tôi Chọn Yêu Người Biết Trân Trọng l Sora Dub",
-      "channel": "drama2",
-      "channel_title": "Sora Dub",
-      "published_at": "2026-10-28T01:00:03Z",
-      "duration_seconds": 3139,
-      "thumbnail_url": "https://i.ytimg.com/vi/xd2carNS-38/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "DbqXY76FIlQ",
       "title": "Sếp Sa Thải Anh Ngay Ngày Ký Hợp Đồng 28 Tỷ, Nào Ngờ Đối Tác Tuyên Bố Không Có Anh Sẽ Hủy Cả Dự Án",
       "channel": "drama3",
@@ -18192,20 +18402,6 @@
       "duration_seconds": 4750,
       "thumbnail_url": "https://i.ytimg.com/vi/NTnkTQwIgr8/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
-      "id": "xSYKuwMd-qE",
-      "title": "Pengemis Dijebak Mantan Istri Dan Dilempar Ke Jurang Bangkitkan Sistem Dewa Perang Lalu Balas Dendam",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-10-24T05:00:29Z",
-      "duration_seconds": 3070,
-      "thumbnail_url": "https://i.ytimg.com/vi/xSYKuwMd-qE/maxresdefault.jpg",
-      "embeddable": false,
       "kind": "regular",
       "categories": [
         "drama"
@@ -21210,20 +21406,6 @@
       ]
     },
     {
-      "id": "uI7l9dkjtSs",
-      "title": "Pengemis Bawa Sekarung Batu Ke Pasar Antik, Ditertawakan, Ternyata Permata Yang Membuatnya Miliarder",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-10-19T10:00:30Z",
-      "duration_seconds": 5743,
-      "thumbnail_url": "https://i.ytimg.com/vi/uI7l9dkjtSs/maxresdefault.jpg",
-      "embeddable": false,
-      "kind": "regular",
-      "categories": [
-        "drama"
-      ]
-    },
-    {
       "id": "Dkl4GRTZDGA",
       "title": "Con trai tài xế giả đại gia, bao tiệc 15 triệu USD bắt tôi trả, kết cục hắn phải quỳ gối cầu xin!",
       "channel": "drama4",
@@ -22369,20 +22551,6 @@
       "kind": "regular",
       "categories": [
         "cartoon"
-      ]
-    },
-    {
-      "id": "5TsA5wL_Jvg",
-      "title": "Dewa Perang Baru Bebas dari Penjara Pulang dan Melihat Adiknya Dirundung, Lalu Mengalahkan Preman",
-      "channel": "drama6",
-      "channel_title": "Sambal Clips",
-      "published_at": "2026-10-17T11:00:35Z",
-      "duration_seconds": 3685,
-      "thumbnail_url": "https://i.ytimg.com/vi/5TsA5wL_Jvg/maxresdefault.jpg",
-      "embeddable": false,
-      "kind": "regular",
-      "categories": [
-        "drama"
       ]
     },
     {
@@ -32923,20 +33091,6 @@
       "kind": "regular",
       "categories": [
         "drama"
-      ]
-    },
-    {
-      "id": "y5lOkBi5Ft8",
-      "title": "Đội Quân Tỷ Người, Phế Vật Thức Tỉnh Cấp SSS+ Trở Thành Bất Bại Trên Chiến Trường",
-      "channel": "movies",
-      "channel_title": "Thảo Lác ",
-      "published_at": "2026-09-27T01:58:16Z",
-      "duration_seconds": 7218,
-      "thumbnail_url": "https://i.ytimg.com/vi/y5lOkBi5Ft8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "regular",
-      "categories": [
-        "cartoon"
       ]
     },
     {
@@ -44392,12 +44546,12 @@
       "channel": "music",
       "channel_title": "TC Music Global",
       "published_at": "2026-09-04T11:05:50Z",
-      "duration_seconds": 180,
+      "duration_seconds": 181,
       "thumbnail_url": "https://i.ytimg.com/vi/sSJtbExGWH4/maxresdefault.jpg",
       "embeddable": true,
-      "kind": "short",
+      "kind": "regular",
       "categories": [
-        "shorts"
+        "music"
       ]
     },
     {
